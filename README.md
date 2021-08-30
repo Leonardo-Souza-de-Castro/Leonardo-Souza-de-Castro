@@ -1,4 +1,4 @@
-## Leonardo Souza 👨‍💻
+## Leonardo Souza 
 
 #### Opa beleza, acho que se você ta por aqui pode me contratar né 👋
 
