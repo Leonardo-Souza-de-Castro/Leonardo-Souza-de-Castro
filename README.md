@@ -24,7 +24,7 @@ Eu sou o Leonardo, e estudo Desenvolvimento de Sistemas no SENAI de Informatica 
 <a href=https://www.instagram.com/lleonardo.souzaa/ target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white></a>
 <a href=https://twitter.com/muitoosonoo target="_blank"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white></a>
 <a href=https://www.linkedin.com/in/leonardo-souza-25b33021b/ target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
-<a href = "https://api.whatsapp.com/send?phone=551988096948"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+<a href = "https://api.whatsapp.com/send?phone=5511988096948"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
 </div>
 
 
