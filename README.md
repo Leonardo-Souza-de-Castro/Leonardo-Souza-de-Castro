@@ -2,9 +2,9 @@
 
 #### Opa tudo bom?👋
 
-Eu sou o Leonardo, e estudo Desenvolvimento de Sistemas no SENAI de Informatica em Santa Cecilia.
+Eu sou o Leonardo, e sou formado em Desenvolvimento de Sistemas no SENAI de Informatica da Santa Cecilia.
 
-* 📚 Cursando o segundo termo de Desenvolvimento de Sistemas
+* 📚 Formado em Desenvolvimento de Sistemas
 * 😉 Disposto e aberto a novos negócios.
 * 🙋‍♂️ Sobre Mim: Eu gosto de séries e filmes, jogar, cozinhar e além de tudo programar!!
 
