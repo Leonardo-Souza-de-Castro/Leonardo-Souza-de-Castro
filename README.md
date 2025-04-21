@@ -5,7 +5,7 @@
 Prazer eu sou o Leonardo, e atualmente curso Ciência da Computação na FEI.
 
 * 📚 Formado em Desenvolvimento de Sistemas no SENAI
-* 😉 Estágiario do Itaú Unibanco na área de Ánalise de Dados
+* 😉 Estágiario do Itaú Unibanco na área de Desenvolvimento de Sistemas
 * 🙋‍♂️ Sobre Mim: Eu gosto de séries e filmes, jogar, cozinhar e além de tudo programar!!
 
 ## Tecnologias 👨‍💻
